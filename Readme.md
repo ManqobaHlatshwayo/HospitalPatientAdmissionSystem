@@ -42,4 +42,4 @@ Running the Tests
 
 Author
 
-Manqoba Hlatshwayo — BCAD, IIE Emeris/Remos, Durban North Campus
+Manqoba Hlatshwayo — BCAD, IIE Emeris, Durban North Campus
